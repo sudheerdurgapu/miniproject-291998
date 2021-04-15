@@ -3,7 +3,7 @@
  
 void multilevel()
 {
-      int i, limit, total = 0, x, counter = 0, time_quantum,j;
+      int i, limit=0, total = 0, x, counter = 0, time_quantum,j;
      
       int wait_time = 0, turnaround_time = 0,pos,z,p[10],prio[10], a_time[10], b_time[10], temp[10],b;
      
