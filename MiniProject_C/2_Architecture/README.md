@@ -1,8 +1,7 @@
 # Architecture
 
-* Add UML Diagrams
-* For information about UML Diagrams refer: [UML Diagrams](https://www.uml-diagrams.org/uml-25-diagrams.html)
+
 ## Tools 
-* [Draw.io](https://app.diagrams.net/)
-* [Creately](https://app.creately.com/diagram/create)
+*![Screenshot (288).png](https://github.com/sudheerdurgapu/mini-project-291998/blob/main/MiniProject_C/2_Architecture/behavior%20Diagrams/Screenshot%20(288).png)
+*![Screenshot (290).png](https://github.com/sudheerdurgapu/mini-project-291998/blob/main/MiniProject_C/2_Architecture/structure%20Diagrams/Screenshot%20(290).png)
 * or any other free tools
